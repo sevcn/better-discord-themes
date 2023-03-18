@@ -4,5 +4,5 @@
 
 :root {
 	--accentcolor: 163,47,194;		/* blurple - default: 114,137,218 */
-	--linkcolor: 190,60,220;		/* link - default: 0,176,244 */
+	--linkcolor: 190,0,0;		/* link - default: 0,176,244 */
 }
